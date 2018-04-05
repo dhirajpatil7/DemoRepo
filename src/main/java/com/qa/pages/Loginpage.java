@@ -6,4 +6,8 @@ public class Loginpage {
 	{
 		System.out.println("Login page");
 	}
+	public void Set()
+	{
+		System.out.println("Set");
+	}
 }
